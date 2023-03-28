@@ -1,5 +1,9 @@
-// Client side C/C++ program to demonstrate Socket
-// programming
+/* Forward and Backward Data Transmission Code
+ * Author: Suresh Srinivasan
+ * Email: suresh2@pdx.edu
+ */
+
+
 #include <arpa/inet.h>
 #include <stdio.h>
 #include <string.h>
